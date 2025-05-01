@@ -97,6 +97,25 @@ Responsive styles use media queries to optimize layout on mobile.
 
 ---
 
+## ⚙️ Setup & Run Locally
+
+```bash
+# Clone this repo
+git clone https://github.com/Nehavinamra/interview-prep-tool.git
+cd interview-prep-tool
+
+# Install dependencies
+npm install
+
+# If using react-speech-recognition
+npm install react-speech-recognition
+
+# Run locally
+npm run dev
+```
+
+---
+
 ## 📂 Future Improvements
 
 - [ ] Use OpenAI API for dynamic question generation
